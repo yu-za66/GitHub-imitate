@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\jyankenbattle\bin\Debug\jyankenbattle.exe.config
+C:\Users\user\source\repos\jyankenbattle\bin\Debug\jyankenbattle.exe
+C:\Users\user\source\repos\jyankenbattle\bin\Debug\jyankenbattle.pdb
+C:\Users\user\source\repos\jyankenbattle\obj\Debug\jyankenbattle.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\jyankenbattle\obj\Debug\jyankenbattle.Form1.resources
+C:\Users\user\source\repos\jyankenbattle\obj\Debug\jyankenbattle.Properties.Resources.resources
+C:\Users\user\source\repos\jyankenbattle\obj\Debug\jyankenbattle.csproj.GenerateResource.cache
+C:\Users\user\source\repos\jyankenbattle\obj\Debug\jyankenbattle.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\jyankenbattle\obj\Debug\jyankenbattle.exe
+C:\Users\user\source\repos\jyankenbattle\obj\Debug\jyankenbattle.pdb
